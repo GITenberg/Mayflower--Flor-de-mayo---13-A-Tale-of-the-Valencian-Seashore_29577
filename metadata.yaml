@@ -23,6 +23,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/647
     wikipedia: http://en.wikipedia.org/wiki/Vicente_Blasco_Ibáñez
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29577#Mayflower--Flor-de-mayo---13-A-Tale-of-the-Valencian-Seashore
 gutenberg_issued: '2009-08-02'
 gutenberg_type: Text
 identifiers:
